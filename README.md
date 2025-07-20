@@ -1,6 +1,6 @@
 # Skematics
 
-Install using cargo install skematics
+Install using cargo install skematics-m1
 
 Shows system information from disk usage to temperature and network usage
 
