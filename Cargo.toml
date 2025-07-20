@@ -1,0 +1,18 @@
+[package]
+name = "skematics-m1"
+version = "0.1.0"
+edition = "2024"
+
+# ...
+
+license = "MIT OR Apache-2.0"
+description = "Skematics collects and displays system information (username, hostname, OS, kernel, uptime, disk usage, temperatures, and network statistics)"
+repository = "https://github.com/Thewsthews/skematics.git"
+readme = "README.md"
+keywords = ["skematics", "m1"]
+
+
+[dependencies]
+sysinfo = "0.29"
+chrono = "0.4"
+whoami = "1.4"
