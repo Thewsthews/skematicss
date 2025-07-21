@@ -10,4 +10,4 @@ Please dont laugh at me :(
 
 It should work on all platforms
 
-Cheers!
+Cheers :)
